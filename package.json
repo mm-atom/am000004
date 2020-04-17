@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/am000004",
-	"version": "1.0.202003261653",
+	"version": "1.0.202004170849",
 	"description": "global remove",
 	"scripts": {
 		"test": "tsc -w",
